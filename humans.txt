@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Setu Saxena> -- <Setu.saxena@sap.com>
 
 # THANKS
 
