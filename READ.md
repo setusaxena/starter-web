@@ -22,4 +22,4 @@ please for this repo and then issue pull requests for review.
 
 ### Copyright
 
-All rights are reserved Git.Training
+All rights are reserved Git.Training. Emergency Fix All rights are reserved
