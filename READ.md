@@ -16,6 +16,8 @@ This is a simple web project
 
 ## How To Contribute
 
+please for this repo and then issue pull requests for review.
+
 ### Copyright
 
 All rights are reserved Git.Training
